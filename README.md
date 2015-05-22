@@ -2,8 +2,6 @@
 Singleton mapping extensions to MIME types
 
 ```javascript
-> var mimeTypes = require('mimes');
-'undefined'
-> mimeTypes['txt'];
+> require('mimes').txt
 'text/plain'
 ```
