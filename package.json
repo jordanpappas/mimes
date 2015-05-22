@@ -1,6 +1,6 @@
 {
   "name": "mimes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Singleton mapping extensions to MIME types.",
   "main": "index.js",
   "scripts": {
