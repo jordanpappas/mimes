@@ -1,5 +1,5 @@
 # mimes
-Single JSON object mapping extensions to MIME types
+Singleton mapping extensions to MIME types
 
 ```javascript
 > var mimeTypes = require('mimes');
