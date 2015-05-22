@@ -1,8 +1,9 @@
 # mimes
 Single JSON object mapping extensions to MIME types
 
-```
-$ var mimeTypes = require('mimes');
-$ mimeTypes["txt"];
+```javascript
+> var mimeTypes = require('mimes');
+'undefined'
+> mimeTypes["txt"];
 'text/plain'
 ```
