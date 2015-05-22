@@ -1,0 +1,24 @@
+{
+  "name": "mimes",
+  "version": "0.0.1",
+  "description": "Singleton mapping extensions to MIME types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanpappas/mimes.git"
+  },
+  "keywords": [
+    "MIME",
+    "types",
+    "mime-types"
+  ],
+  "author": "Jordan Pappas <jordanpappas@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordanpappas/mimes/issues"
+  },
+  "homepage": "https://github.com/jordanpappas/mimes#readme"
+}
